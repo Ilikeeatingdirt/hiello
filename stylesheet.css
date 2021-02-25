@@ -1,0 +1,64 @@
+body {
+    padding: 10;
+    margin: 10;
+}
+
+ul {
+    padding: 10;
+    margin: 10;
+}
+.introduction {
+   background-color:  #1c52fb
+}
+
+.navlinks {
+    font-size: small;
+    background-color: olive;
+    COLOR: white;
+    text-align: center;
+    font-size: 1.578345534rem;
+}
+
+.introduction {
+    font-size: 1.8rem;
+    color: white;
+}
+
+
+.imagebanner {
+    padding: 50px 0px;
+    background-image: url("EPIC PHOTOS/images.png");
+    
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.ourgames {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.qanda {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.games  {
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.secret {
+    color: white;
+
+}
